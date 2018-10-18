@@ -1,0 +1,139 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\55aefc97da3600df005228e26303a37c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\1c3c9bd141b6128e03d114f11772e2b9\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2161f74632196adb0df4455c9fb9adfd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ff5f878d1154aac89ba3f174eb89aad0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ec8a1d7599147308e290f7925f03fd0a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\cebad73712f5f94204e3b25bccccbbf1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\51862fe7761e61acff49ef3468a2fb33\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6d660f20bce97169ea9390f380cbddec\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d09705c9fada0cd9c748eabdab725d67\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f8c01a947041c08d604ea212409f15ac\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d10a269d9e6055bc0cd90d0d48f567e5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e9e8f06c7fa773fae1d3d0ac0868169d\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:2:1-31:12
+		INJECTED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:7:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\1c3c9bd141b6128e03d114f11772e2b9\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\1c3c9bd141b6128e03d114f11772e2b9\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.clash.mv1.MainActivity
+ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.example.clash.mv1.option
+ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:21:9-44
+	android:name
+		ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:21:19-41
+activity#com.example.clash.mv1.manual
+ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:22:9-44
+	android:name
+		ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:22:19-41
+activity#com.example.clash.mv1.lineTracing
+ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:23:9-49
+	android:name
+		ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:23:19-46
+activity#com.example.clash.mv1.homeAuto
+ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:24:9-46
+	android:name
+		ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:24:19-43
+activity#com.example.clash.mv1.gyro
+ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:25:9-42
+	android:name
+		ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:25:19-39
+activity#com.example.clash.mv1.speechControl
+ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:26:9-51
+	android:name
+		ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:26:19-48
+activity#com.example.clash.mv1.start
+ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:27:9-43
+	android:name
+		ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:27:19-40
+activity#com.example.clash.mv1.info
+ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:28:9-51
+	android:name
+		ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml:28:19-39
+uses-sdk
+INJECTED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\55aefc97da3600df005228e26303a37c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\55aefc97da3600df005228e26303a37c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\1c3c9bd141b6128e03d114f11772e2b9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\1c3c9bd141b6128e03d114f11772e2b9\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2161f74632196adb0df4455c9fb9adfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\2161f74632196adb0df4455c9fb9adfd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ff5f878d1154aac89ba3f174eb89aad0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\ff5f878d1154aac89ba3f174eb89aad0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ec8a1d7599147308e290f7925f03fd0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\ec8a1d7599147308e290f7925f03fd0a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\cebad73712f5f94204e3b25bccccbbf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\cebad73712f5f94204e3b25bccccbbf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\51862fe7761e61acff49ef3468a2fb33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\51862fe7761e61acff49ef3468a2fb33\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6d660f20bce97169ea9390f380cbddec\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\6d660f20bce97169ea9390f380cbddec\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d09705c9fada0cd9c748eabdab725d67\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\d09705c9fada0cd9c748eabdab725d67\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f8c01a947041c08d604ea212409f15ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\f8c01a947041c08d604ea212409f15ac\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d10a269d9e6055bc0cd90d0d48f567e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\d10a269d9e6055bc0cd90d0d48f567e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e9e8f06c7fa773fae1d3d0ac0868169d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\dhruv\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\e9e8f06c7fa773fae1d3d0ac0868169d\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dhruv\Downloads\Mv1-20181018T044335Z-001\Mv1\app\src\main\AndroidManifest.xml

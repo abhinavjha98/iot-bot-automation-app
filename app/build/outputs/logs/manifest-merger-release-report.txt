@@ -1,0 +1,187 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:2:1-31:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/e6d387d381ffc6468e4ac39e2de968d9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/clash/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d012bfba5d604ac83978e70e6e4fe0dd/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/930336db54b9e4874c177b6e0e922405/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/3248ae992b01700606b984f5ebddf098/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/3dd8cfef96ed3ac956421ef3fc50a6eb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/9883c9e713939984dd3d05111fbafb03/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/3590e2c409b809fcba0213d94b04f6a6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/0d910b92d9e6c7ea52fa83683d573d70/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/2245121bd312f2214471199b240437fa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/25d217838da3663f18b5e1d25e756305/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/1e6942b0fd75e3d6e32fc0ca4a6d93d5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/22da6251e1a5ce8ced8516680c614d11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/8da87d44b0518c538ebe1de99bc482e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/71d13ba26086b7e6533a7077579794be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/3f1a53f81ef42e75b56308b39973f912/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/ed9945640191d5e12259f2d92159a3de/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/b1c225c991a88189758cb6ea47d18dd5/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/c356aeab9436d20feeb74ed71b7916b0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/clash/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d303a55bb716998a918d7ae53aba82c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/a115caf0d94d372b6252e01b091bb32a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/2a97027e02833840523c96f113b754f1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/fb12b79c34073cb56cc4ae3af34156f0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/clash/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7d93788000a00d5591d074fd4a64e4e7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/clash/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5df1d0b424365636ee2050f5171c1808/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/clash/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dba794600310b9f2b9921c1d5e3a46ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/b2a23a5951d6bc121899ebfe178d69e0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:2:1-31:12
+INJECTED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:3:5-36
+		INJECTED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml
+		ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml
+		ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:2:1-31:12
+		INJECTED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:7:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/clash/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d012bfba5d604ac83978e70e6e4fe0dd/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/clash/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d012bfba5d604ac83978e70e6e4fe0dd/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/ed9945640191d5e12259f2d92159a3de/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/ed9945640191d5e12259f2d92159a3de/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/b1c225c991a88189758cb6ea47d18dd5/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/b1c225c991a88189758cb6ea47d18dd5/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/ed9945640191d5e12259f2d92159a3de/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.clash.mv1.MainActivity
+ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.example.clash.mv1.option
+ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:21:9-44
+	android:name
+		ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:21:19-41
+activity#com.example.clash.mv1.manual
+ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:22:9-44
+	android:name
+		ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:22:19-41
+activity#com.example.clash.mv1.lineTracing
+ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:23:9-49
+	android:name
+		ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:23:19-46
+activity#com.example.clash.mv1.homeAuto
+ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:24:9-46
+	android:name
+		ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:24:19-43
+activity#com.example.clash.mv1.gyro
+ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:25:9-42
+	android:name
+		ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:25:19-39
+activity#com.example.clash.mv1.speechControl
+ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:26:9-51
+	android:name
+		ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:26:19-48
+activity#com.example.clash.mv1.start
+ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:27:9-43
+	android:name
+		ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:27:19-40
+activity#com.example.clash.mv1.info
+ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:28:9-51
+	android:name
+		ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml:28:19-39
+uses-sdk
+INJECTED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml
+INJECTED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/e6d387d381ffc6468e4ac39e2de968d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc01.aar/e6d387d381ffc6468e4ac39e2de968d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/clash/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d012bfba5d604ac83978e70e6e4fe0dd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /home/clash/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/d012bfba5d604ac83978e70e6e4fe0dd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/930336db54b9e4874c177b6e0e922405/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-rc01.aar/930336db54b9e4874c177b6e0e922405/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/3248ae992b01700606b984f5ebddf098/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-rc01.aar/3248ae992b01700606b984f5ebddf098/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/3dd8cfef96ed3ac956421ef3fc50a6eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-rc01.aar/3dd8cfef96ed3ac956421ef3fc50a6eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/9883c9e713939984dd3d05111fbafb03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-rc01.aar/9883c9e713939984dd3d05111fbafb03/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/3590e2c409b809fcba0213d94b04f6a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-rc01.aar/3590e2c409b809fcba0213d94b04f6a6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/0d910b92d9e6c7ea52fa83683d573d70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-rc01.aar/0d910b92d9e6c7ea52fa83683d573d70/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/2245121bd312f2214471199b240437fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-rc01.aar/2245121bd312f2214471199b240437fa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/25d217838da3663f18b5e1d25e756305/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-rc01.aar/25d217838da3663f18b5e1d25e756305/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/1e6942b0fd75e3d6e32fc0ca4a6d93d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-rc01.aar/1e6942b0fd75e3d6e32fc0ca4a6d93d5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/22da6251e1a5ce8ced8516680c614d11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-rc01.aar/22da6251e1a5ce8ced8516680c614d11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/8da87d44b0518c538ebe1de99bc482e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-rc01.aar/8da87d44b0518c538ebe1de99bc482e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/71d13ba26086b7e6533a7077579794be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-rc01.aar/71d13ba26086b7e6533a7077579794be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/3f1a53f81ef42e75b56308b39973f912/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-rc01.aar/3f1a53f81ef42e75b56308b39973f912/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/ed9945640191d5e12259f2d92159a3de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-rc01.aar/ed9945640191d5e12259f2d92159a3de/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/b1c225c991a88189758cb6ea47d18dd5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-rc01.aar/b1c225c991a88189758cb6ea47d18dd5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/c356aeab9436d20feeb74ed71b7916b0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-rc01.aar/c356aeab9436d20feeb74ed71b7916b0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/clash/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d303a55bb716998a918d7ae53aba82c2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/clash/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d303a55bb716998a918d7ae53aba82c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/a115caf0d94d372b6252e01b091bb32a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-rc01.aar/a115caf0d94d372b6252e01b091bb32a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/2a97027e02833840523c96f113b754f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-rc01.aar/2a97027e02833840523c96f113b754f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/fb12b79c34073cb56cc4ae3af34156f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/print-28.0.0-rc01.aar/fb12b79c34073cb56cc4ae3af34156f0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/clash/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7d93788000a00d5591d074fd4a64e4e7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/clash/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7d93788000a00d5591d074fd4a64e4e7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/clash/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5df1d0b424365636ee2050f5171c1808/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/clash/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/5df1d0b424365636ee2050f5171c1808/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/clash/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dba794600310b9f2b9921c1d5e3a46ce/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/clash/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/dba794600310b9f2b9921c1d5e3a46ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/b2a23a5951d6bc121899ebfe178d69e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-rc01] /home/clash/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-rc01.aar/b2a23a5951d6bc121899ebfe178d69e0/AndroidManifest.xml:20:5-44
+INJECTED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml
+INJECTED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml
+		ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml
+		ADDED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml
+		INJECTED from /home/clash/AndroidStudioProjects/Mv1/app/src/main/AndroidManifest.xml
